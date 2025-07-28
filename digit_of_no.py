@@ -8,4 +8,4 @@ def digitno(num):
     
     return sum
 
-print(digitno(123))
+digitno(123)
