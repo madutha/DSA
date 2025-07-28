@@ -9,7 +9,7 @@ def digit_in_word(num):
         7 : "Seven",
         8 : "Eight",
         9 : "Nine",
-        0 : "Zero" 
+        0 : "Zero",
     }
     ans = ""
     num = str(num)
